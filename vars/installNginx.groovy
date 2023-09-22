@@ -1,4 +1,4 @@
-def call(String workerNode) {
+def {
      pipeline {
     
     agent {
